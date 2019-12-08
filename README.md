@@ -13,5 +13,5 @@ npm run serve
 
 ### Hosted at
 ```
-https://we-music.netlify.com/
+(https://we-music.netlify.com)
 ```
