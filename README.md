@@ -11,7 +11,4 @@ npm install
 npm run serve
 ```
 
-### Hosted at
-```
-(https://we-music.netlify.com)
-```
+### Hosted [HERE](https://we-music.netlify.com)
