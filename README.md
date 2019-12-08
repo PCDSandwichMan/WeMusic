@@ -1,4 +1,4 @@
-# WeMusix
+# WeMusic
 
 ## Project setup
 ```
