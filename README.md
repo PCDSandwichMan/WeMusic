@@ -1,5 +1,5 @@
 # WeMusic
-	*jsonplaceholder demo site*
+*jsonplaceholder demo site*
 
 ## Project setup
 ```
