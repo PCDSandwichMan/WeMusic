@@ -9,7 +9,7 @@
     </div>
 
     <div v-else class="search-container">
-      <input
+      <input 
         v-model="query"
         @input="handleSearch"
         type="text"

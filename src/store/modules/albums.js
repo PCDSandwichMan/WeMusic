@@ -23,7 +23,7 @@ const mutations = {
 };
 
 const actions = {
-  getAllAlbums({ commit }, userId) {
+  async getAllAlbums({ commit }, userId) {
     // Designed for memoization
     let concurrentReqArr = [];
     if (state.albums.length <= 10) {

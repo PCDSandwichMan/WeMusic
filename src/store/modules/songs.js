@@ -1,4 +1,5 @@
 import axios from "axios";
+import albums from "./albums";
 
 const state = {
   songs: []
